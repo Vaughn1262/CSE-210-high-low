@@ -1,0 +1,15 @@
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.csproj.AssemblyReference.cache
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.AssemblyInfoInputs.cache
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.AssemblyInfo.cs
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.csproj.CoreCompileInputs.cache
+C:\Users\vaugh\Git\CSE-210-high-low\bin\Debug\net6.0\CSE-210-high-low.exe
+C:\Users\vaugh\Git\CSE-210-high-low\bin\Debug\net6.0\CSE-210-high-low.deps.json
+C:\Users\vaugh\Git\CSE-210-high-low\bin\Debug\net6.0\CSE-210-high-low.runtimeconfig.json
+C:\Users\vaugh\Git\CSE-210-high-low\bin\Debug\net6.0\CSE-210-high-low.dll
+C:\Users\vaugh\Git\CSE-210-high-low\bin\Debug\net6.0\CSE-210-high-low.pdb
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.dll
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\refint\CSE-210-high-low.dll
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.pdb
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\CSE-210-high-low.genruntimeconfig.cache
+C:\Users\vaugh\Git\CSE-210-high-low\obj\Debug\net6.0\ref\CSE-210-high-low.dll
