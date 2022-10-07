@@ -18,7 +18,7 @@ class Deck
         }
     }
     public Card DrawCard() {
-        int randomIndex = generator.Next(14);
+        int randomIndex = generator.Next(Cards.Count);
         Card cardValue = Cards[randomIndex];
         Cards.RemoveAt(randomIndex);
         return cardValue;
