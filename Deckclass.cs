@@ -1,6 +1,6 @@
 class Deck
 {
-    Random generator = new Random();
+    public Random generator = new Random();
 
     public List<Card> Cards = new List<Card>();
 
@@ -8,7 +8,7 @@ class Deck
         BuildDeck();
     }
     
-    void BuildDeck(){
+    public void BuildDeck(){
         if (Cards.Count != 0) {
             return;
         }

@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Score totalScore = new Score(300);
 Deck deck1 = new Deck();
+
 while (keepPlaying()){
-    Card card1 = deck1.Cards[0];
+    Card card1 = deck1.Cards[4];
     Card card2 = deck1.Cards[1];
     Console.WriteLine($"The card is {card1.number}");
     Console.WriteLine("Higher or Lower (h/l)?");
