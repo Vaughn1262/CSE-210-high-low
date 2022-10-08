@@ -1,5 +1,6 @@
 class Deck
-{
+{   
+    //This class generates a list or deck of cards from 1 to 13
     public Random generator = new Random();
 
     public List<Card> Cards = new List<Card>();
@@ -18,6 +19,8 @@ class Deck
         }
     }
     public Card DrawCard() {
+        
+        // This function draws a random card out of the deck for the user
         int randomIndex = generator.Next(Cards.Count);
         Card cardValue = Cards[randomIndex];
         Cards.RemoveAt(randomIndex);

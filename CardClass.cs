@@ -1,8 +1,9 @@
 class Card {
-    public int number;
+    //This class represents a single card with the value n
+    public int value;
 
     public Card(int n) {
-        number = n;
+        value = n;
     }
 
     
